@@ -1,0 +1,198 @@
+{
+  "android_developer": [
+    "java", "kotlin", "android studio", "xml", "firebase", "rest api",
+    "material design", "gradle", "dagger", "retrofit", "room database",
+    "mvvm architecture", "coroutines", "jetpack compose", "git",
+    "unit testing", "ci/cd", "google play console", "proguard",
+    "performance optimization", "memory management", "background tasks",
+    "notifications", "location services", "camera api", "bluetooth",
+    "wear os", "google maps api", "in-app purchases", "push notifications"
+  ],
+
+  "ai_developer": [
+    "python", "machine learning", "deep learning", "tensorflow", "pytorch",
+    "neural networks", "natural language processing", "computer vision",
+    "reinforcement learning", "data preprocessing", "model deployment",
+    "scikit-learn", "keras", "opencv", "pandas", "numpy", "matplotlib",
+    "transformers", "llm", "generative ai", "hugging face", "mlops",
+    "aws sagemaker", "google ai platform", "docker", "kubernetes",
+    "model optimization", "transfer learning", "data augmentation", "gpu programming"
+  ],
+
+  "banker": [
+    "financial analysis", "risk management", "investment banking", "portfolio management",
+    "wealth management", "loan processing", "credit analysis", "regulatory compliance",
+    "kYC", "anti money laundering", "treasury management", "capital markets",
+    "mergers and acquisitions", "financial modeling", "excel", "bloomberg terminal",
+    "reuters", "sarbanes oxley", "basel iii", "ifrs", "gaap", "customer relationship management",
+    "sales", "negotiation", "presentation skills", "market research", "asset management",
+    "private equity", "hedge funds", "financial reporting"
+  ],
+
+  "ui_ux_designer": [
+    "figma", "adobe xd", "sketch", "user research", "wireframing", "prototyping",
+    "user testing", "interaction design", "visual design", "design systems",
+    "responsive design", "mobile first design", "accessibility", "usability",
+    "information architecture", "persona creation", "journey mapping", "heuristic evaluation",
+    "adobe creative suite", "illustrator", "photoshop", "after effects", "principle",
+    "invision", "marvel", "zeplin", "abstract", "user centered design", "design thinking"
+  ],
+
+  "data_scientist": [
+    "python", "r", "sql", "statistics", "machine learning", "data visualization",
+    "data cleaning", "feature engineering", "predictive modeling", "a/b testing",
+    "hypothesis testing", "regression analysis", "classification", "clustering",
+    "time series analysis", "big data", "hadoop", "spark", "tableau", "power bi",
+    "jupyter", "pandas", "numpy", "scikit-learn", "tensorflow", "keras",
+    "deep learning", "natural language processing", "computer vision", "data mining"
+  ],
+
+  "devops_engineer": [
+    "aws", "azure", "google cloud", "docker", "kubernetes", "jenkins",
+    "gitlab ci", "github actions", "terraform", "ansible", "chef", "puppet",
+    "linux", "bash scripting", "python", "groovy", "monitoring", "prometheus",
+    "grafana", "elk stack", "splunk", "nginx", "apache", "mysql", "mongodb",
+    "redis", "istio", "helm", "argo cd", "git"
+  ],
+
+  "digital_marketer": [
+    "seo", "sem", "google ads", "facebook ads", "instagram marketing",
+    "linkedin marketing", "content marketing", "email marketing", "social media management",
+    "google analytics", "google tag manager", "conversion rate optimization",
+    "landing page optimization", "a/b testing", "marketing automation",
+    "hubspot", "market", "salesforce", "wordpress", "canva",
+    "copywriting", "content strategy", "influencer marketing", "video marketing",
+    "ppc", "cro", "kpi analysis", "roi measurement", "customer journey mapping"
+  ],
+
+  "fullstack_developer": [
+    "javascript", "typescript", "react", "angular", "vue", "node.js",
+    "express.js", "mongodb", "mysql", "postgresql", "html", "css",
+    "sass", "bootstrap", "tailwind css", "rest api", "graphql",
+    "docker", "aws", "git", "jest", "mocha", "chai",
+    "webpack", "babel", "nginx", "linux", "ci/cd", "agile methodology"
+  ],
+
+  "cloud_architect": [
+    "aws", "azure", "google cloud", "terraform", "cloudformation",
+    "microservices", "serverless", "lambda", "kubernetes", "docker",
+    "api gateway", "load balancing", "auto scaling", "cloud security",
+    "identity and access management", "vpc", "subnet", "route53",
+    "cloudwatch", "cloudtrail", "disaster recovery", "high availability",
+    "cost optimization", "performance tuning", "devops", "ci/cd",
+    "python", "json", "yaml", "networking"
+  ],
+
+  "cybersecurity_analyst": [
+    "network security", "endpoint protection", "firewall", "vpn", "siem",
+    "splunk", "wireshark", "metasploit", "nmap", "nessus",
+    "vulnerability assessment", "penetration testing", "incident response",
+    "threat intelligence", "digital forensics", "soc", "ids", "ips",
+    "owasp", "encryption", "public key infrastructure", "access control",
+    "security compliance", "iso 27001", "nist", "gdpr", "hipaa",
+    "risk assessment", "security awareness", "malware analysis"
+  ],
+
+  "product_manager": [
+    "product strategy", "roadmapping", "user stories", "backlog grooming",
+    "agile methodology", "scrum", "kanban", "jira", "confluence",
+    "market research", "competitive analysis", "customer development",
+    "mvp", "product metrics", "a/b testing", "user acceptance testing",
+    "stakeholder management", "prioritization", "business model canvas",
+    "swot analysis", "product launch", "go-to-market strategy",
+    "customer journey mapping", "prototyping", "data analysis", "sql",
+    "presentation skills", "negotiation", "leadership", "cross-functional collaboration"
+  ],
+
+  "qa_engineer": [
+    "manual testing", "automation testing", "selenium", "cypress", "playwright",
+    "testng", "junit", "postman", "soapui", "jmeter",
+    "load testing", "performance testing", "security testing", "mobile testing",
+    "api testing", "test planning", "test cases", "bug tracking", "jira",
+    "testrail", "agile methodology", "scrum", "kanban", "continuous testing",
+    "devops", "ci/cd", "jenkins", "git", "sql", "exploratory testing"
+  ],
+
+  "network_engineer": [
+    "ccna", "ccnp", "tcp/ip", "dns", "dhcp", "vlan", "vpn",
+    "mpls", "bgp", "ospf", "eigrp", "firewall", "cisco ios",
+    "juniper", "palo alto", "fortinet", "load balancing", "f5",
+    "wan", "lan", "wireless networking", "network security",
+    "monitoring", "solarwinds", "wireshark", "packet analysis",
+    "disaster recovery", "network automation", "python", "ansible"
+  ],
+
+  "business_analyst": [
+    "requirements gathering", "stakeholder management", "process modeling",
+    "business process reengineering", "use cases", "user stories",
+    "uml", "bpmn", "swot analysis", "gap analysis", "cost benefit analysis",
+    "data analysis", "sql", "excel", "power bi", "tableau",
+    "agile methodology", "scrum", "waterfall", "jira", "confluence",
+    "change management", "risk management", "project management",
+    "presentation skills", "documentation", "wireframing", "testing", "uat"
+  ],
+
+  "content_writer": [
+    "content writing", "copywriting", "seo", "keyword research",
+    "content strategy", "blog writing", "article writing", "technical writing",
+    "creative writing", "proofreading", "editing", "grammar",
+    "content management systems", "wordpress", "google docs", "ms word",
+    "social media content", "email marketing", "landing page copy",
+    "white papers", "case studies", "press releases", "ghostwriting",
+    "plagiarism check", "content optimization", "analytics", "engagement metrics"
+  ],
+
+  "hr_recruiter": [
+    "talent acquisition", "sourcing", "screening", "interviewing",
+    "job posting", "linkedin recruiter", "indeed", "naukri",
+    "applicant tracking system", "background verification", "onboarding",
+    "employee engagement", "performance management", "compensation and benefits",
+    "hr policies", "labor laws", "employee relations", "conflict resolution",
+    "training and development", "succession planning", "hr analytics",
+    "diversity and inclusion", "employer branding", "campus recruitment",
+    "headhunting", "negotiation", "communication skills", "ms office", "excel"
+  ],
+
+  "sales_executive": [
+    "sales", "business development", "lead generation", "prospecting",
+    "cold calling", "email outreach", "linkedin sales", "crm",
+    "salesforce", "hubspot", "pipedrive", "negotiation", "closing",
+    "relationship management", "account management", "client acquisition",
+    "sales forecasting", "pipeline management", "presentation skills",
+    "product demonstration", "market research", "competitive analysis",
+    "b2b sales", "b2c sales", "enterprise sales", "saas sales",
+    "customer success", "revenue growth", "kpi tracking", "sales training"
+  ],
+
+  "mechanical_engineer": [
+    "autocad", "solidworks", "catia", "ansys", "finite element analysis",
+    "gd&t", "product design", "machine design", "thermodynamics",
+    "fluid mechanics", "heat transfer", "manufacturing processes",
+    "cnc machining", "3d printing", "welding", "sheet metal",
+    "plc programming", "robotics", "project management", "quality control",
+    "six sigma", "lean manufacturing", "maintenance", "reliability engineering",
+    "material science", "cad", "cam", "fea", "cfd", "prototyping"
+  ],
+
+  "electrical_engineer": [
+    "circuit design", "pcb design", "altium", "orcad", "matlab",
+    "simulink", "plc programming", "scada", "embedded systems",
+    "arduino", "raspberry pi", "c", "c++", "python",
+    "power systems", "transformers", "motors", "generators",
+    "renewable energy", "solar power", "wind power", "smart grid",
+    "iot", "sensors", "actuators", "control systems", "digital signal processing",
+    "vlsi", "fpga", "verilog", "vhdl"
+  ],
+
+  "civil_engineer": [
+    "autocad", "revit", "staad pro", "etabs", "primavea",
+    "structural analysis", "concrete design", "steel design",
+    "construction management", "project planning", "scheduling",
+    "cost estimation", "quantity survey", "building codes",
+    "earthquake engineering", "foundation design", "soil mechanics",
+    "highway design", "bridge design", "water resources",
+    "environmental engineering", "gis", "surveying", "bim",
+    "safety management", "quality control", "contract management",
+    "tendering", "site supervision", "ms project"
+  ]
+}
